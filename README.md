@@ -1,2 +1,2 @@
 # website_portfolio
-This website showcases some project I have done recently. 
+This website showcases some projects I have done recently. 
